@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+}
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+
+.row::after {
+    clear: both;
+    content: "";
+    display: block;
+}
+.logo_header {
+    padding: 2px;
+    background: black;
+    height: 80px;
+}
+.left {
+    background: lightgrey;
+    height: 400px;
+}
+.right {
+    background: lightgrey;
+    float: right;
+    height: 400px;
+}
+.between {
+    background: white;
+    height: 400px;
+}
+.footer {
+    background: grey;
+    height: 70px;
+}
+a {
+    float: left;
+    color: silver;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-decoration: none ;
+    margin-left: 15px;
+}
+.login {
+    background: black;
+    height: 80px;
+    padding: 30px;
+    padding-left: 100px;
+    color: silver;
+}
+.gg-arrow-right-r {
+    padding-left: 10px;
+}
+.link {
+    color: blue;
+    padding-left: 40%;
+    margin-top: 20px;
+}
+.link2 {
+    color: blue;
+    text-align: center;
+    padding-left: 40%;
+    margin-top: 20px;
+}
+.link3 {
+    color: blue;
+    text-align: center;
+    padding-left: 40%;
+    margin-top: 20px;
+}
+.ads {
+    width: 300px;
+    height: 100px;
+}
+h3 {
+    color: silver;
+    text-align:  center ;
+    margin-top: 10px;
+}
+hr {
+    height: 8px;
+}
+.facebook-icon {
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+        /*float: left;*/
+        /*padding: 15px;*/
+        /*border: 1px solid red;*/
+    }
+}

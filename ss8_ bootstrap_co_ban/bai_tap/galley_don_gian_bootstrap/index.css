@@ -1,0 +1,15 @@
+.hearder {
+    font-size: 30px;
+}
+.hearder2 {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.picture {
+    padding: 1px 50px 1px 50px;
+    margin-top: 15px;
+}
+.card {
+    margin-left: 10px;
+    float: left;
+}

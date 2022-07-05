@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4da70ff4-7a08-428d-83d5-5c31b09ac740" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/dong_goi_thu_vien_java/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dong_goi_thu_vien_java/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/dong_goi_thu_vien_java/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2BSQ0SOVjiVjBAT5b88z6FmObz2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4da70ff4-7a08-428d-83d5-5c31b09ac740" name="Default Changelist" comment="" />
+      <created>1656896783282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656896783282</updated>
+      <workItem from="1656896793423" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="62" y="0" key="new project wizard" timestamp="1656896909406">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="62" y="0" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1656896909406" />
+  </component>
+</project>
